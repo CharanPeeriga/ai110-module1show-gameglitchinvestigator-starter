@@ -26,12 +26,20 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The game's purpose is to guess a random number, which is generated ahead of time.
 - [ ] Detail which bugs you found.
+Initially the bugs included: 
+- Backwards Hints
+- History didn't reset
+- New Game after win/loss doesn't work
 - [ ] Explain what fixes you applied.
-
+I decided to apply fixes to backwards hints and history reset
+- backwards hints: swapped "Lower" with "Higher"
+- history reset: added reset statements to history and score
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+![alt text](image.png)
 
 ## 🚀 Stretch Features
 
