@@ -39,7 +39,7 @@ I decided to apply fixes to backwards hints and history reset
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
-![alt text](image.png)
+![image of winning](image.png)
 
 ## 🚀 Stretch Features
 
